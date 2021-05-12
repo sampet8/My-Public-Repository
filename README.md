@@ -1,4 +1,6 @@
-# My-Public-Repository
-Samuel Petráš
-Introduction to Azure fundamentals
-https://docs.microsoft.com/en-us/users/petrsamuel-6439/
+# NodeJS ŠTC Project
+
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
