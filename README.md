@@ -1,4 +1,4 @@
 # My-Public-Repository
 Samuel Petráš
-Introduction to Azure fundamentals
+Azure Fundamentals part 1: Describe core Azure concepts
 https://docs.microsoft.com/en-us/users/petrsamuel-6439/
